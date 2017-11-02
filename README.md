@@ -26,16 +26,16 @@
 
 1. (5 min - "ABC company") Outsourcing: Is it good or bad? https://www.youtube.com/watch?v=7qeehDLYa8g&feature=youtu.be 
 2. (4 min - "pep talk + counselling conversation"Outsourcing Your Graphic Design [Small Business Tutorial]https://www.youtube.com/watch?v=4ujEtAsR1t8&feature=youtu.be
-   v3) (4 stk ca. 7-8 min - Tyrone Shum/outsourcinglive) Benefits Of Outsourcing https://www.youtube.com/watch?v=m4dWB3Q6j0Q 
-   v4) The 5 Secrets With Outsourcing Software And IT https://www.youtube.com/watch?v=MEtBVTXHv3E 
-   v5) Pros and Cons of Outsourcing https://www.youtube.com/watch?v=90a2qHYqMoU 
-   v6) The Truth About Outsourcing https://www.youtube.com/watch?v=v7LHOUs7KLo 
+3. (4 stk ca. 7-8 min - Tyrone Shum/outsourcinglive) Benefits Of Outsourcing https://www.youtube.com/watch?v=m4dWB3Q6j0Q 
+4. The 5 Secrets With Outsourcing Software And IT https://www.youtube.com/watch?v=MEtBVTXHv3E 
+5. Pros and Cons of Outsourcing https://www.youtube.com/watch?v=90a2qHYqMoU 
+6. The Truth About Outsourcing https://www.youtube.com/watch?v=v7LHOUs7KLo 
 
 ### Agile requirement specification
 #### Leffingwell - Agile software requirements 
-#### •	chap. 3: AGILE REQUIREMENTS FOR THE TEAM
-#### •	chap. 6: USER STORIES (skip spikes)
-#### •	chap. 10: ACCEPTANCE TESTING2)
+•	chap. 3: AGILE REQUIREMENTS FOR THE TEAM
+•	chap. 6: USER STORIES (skip spikes)
+•	chap. 10: ACCEPTANCE TESTING2)
 #### Elisabeth Hendrickson: Driving Development with Tests ATTD and TDD: http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf 
 #### http://www.agilemodeling.com/essays/agileRequirements.htm#ATDD
 
