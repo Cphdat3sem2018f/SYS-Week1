@@ -33,7 +33,7 @@
 
 ### Agile requirement specification
 #### Leffingwell - Agile software requirements 
-- chap. 3: [AGILE REQUIREMENTS FOR THE TEAM] (www.dr.dk)
+- chap. 3: AGILE REQUIREMENTS FOR THE TEAM
 - chap. 6: USER STORIES (skip spikes)
 - chap. 10: ACCEPTANCE TESTING2)
 #### Elisabeth Hendrickson: Driving Development with Tests ATTD and TDD: http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf 
