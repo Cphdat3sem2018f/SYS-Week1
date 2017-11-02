@@ -8,13 +8,13 @@
 ### Day 5 – Study point exercises
 
 ## Learning objectives
-### •	Be able to specify and outsource a part of a project
-### •	Be able to write requirements specification and acceptance test as part of product quality assurance
-### •	Be able to prepare, create and test experimental prototypes/functional spikes
+-	Be able to specify and outsource a part of a project
+-	Be able to write requirements specification and acceptance test as part of product quality assurance
+-	Be able to prepare, create and test experimental prototypes/functional spikes
 
 ## Business competencies 
-### •	Be able to participate in outsourcing
-### •	Be able to participate in business modelling and requirement specification
+-	Be able to participate in outsourcing
+-	Be able to participate in business modelling and requirement specification
 
 ## Exercises
 
