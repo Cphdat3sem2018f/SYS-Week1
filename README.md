@@ -23,6 +23,7 @@
 #### Arthur F. Rothberg: Outsourcing Benefits: Seven Ways They Help Grow SmallCompanies http://www.cfoedge.com/resources/articles/cfo-edge-outsourcing-benefits-and-growing-small-companies.pdf 
 #### #### Michael F. Corbett: The Outsourcing Revolution https://www.economist.com/media/globalexecutive/outsourcing_revolution_e_02.pdf 
 #### Videos:
+
    v1) (5 min - "ABC company") Outsourcing: Is it good or bad? https://www.youtube.com/watch?v=7qeehDLYa8g&feature=youtu.be 
    v2) (4 min - "pep talk + counselling conversation"Outsourcing Your Graphic Design [Small Business Tutorial]https://www.youtube.com/watch?v=4ujEtAsR1t8&feature=youtu.be
    v3) (4 stk ca. 7-8 min - Tyrone Shum/outsourcinglive) Benefits Of Outsourcing https://www.youtube.com/watch?v=m4dWB3Q6j0Q 
