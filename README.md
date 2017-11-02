@@ -40,9 +40,9 @@
 #### http://www.agilemodeling.com/essays/agileRequirements.htm#ATDD
 
 #### Videos:
-#### V1) Explaining Agile - Martin Fowler and Neil Ford at USI: https://www.youtube.com/watch?v=GE6lbPLEAzc 
-#### V2) Agile Product Ownership in a nutshell: https://www.youtube.com/watch?v=502ILHjX9EE 
-#### V3) Product Backlog Grooming Meeting: http://scrumtrainingseries.com/ 
+1. Explaining Agile - Martin Fowler and Neil Ford at USI: https://www.youtube.com/watch?v=GE6lbPLEAzc 
+2. Agile Product Ownership in a nutshell: https://www.youtube.com/watch?v=502ILHjX9EE 
+3. Product Backlog Grooming Meeting: http://scrumtrainingseries.com/ 
 
 ### Unified Process and use cases
 #### Ambler: A Manager’s Introduction to RUP http://www.ambysoft.com/downloads/managersIntroToRUP.pdf 
