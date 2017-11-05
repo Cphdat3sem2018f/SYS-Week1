@@ -17,6 +17,7 @@
 -	Be able to participate in business modelling and requirement specification
 
 ## Exercises
+SP-Exercise Outsorcing 10/11/2017 - [Link to PDF](https://efif.sharepoint.com/sites/cph/Lyngby/Shared%20Documents/4.%20Indhold%20%26%20Niveau/DAT/Stud%20-%20E2016%20-%20E2018%20-%203.%20semester%20efter%C3%A5r%202017/SYS/SP%20Exercises/SP_exercise%20_Outsourcing_2017.pdf?csf=1&e=6e658e58fbc0435887b3324d508a9907)
 
 ## Resources
 ### SYS Intro:
