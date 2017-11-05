@@ -32,7 +32,7 @@
 6. The Truth About Outsourcing https://www.youtube.com/watch?v=v7LHOUs7KLo 
 
 ### Agile requirement specification
-#### Slides: https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=01afbd81adb4e42ac9a3aad4a494e16f5&authkey=AWsusFemkx5acTrC47kQPrY&e=10301a65120a461ab7b544ea10cd2d6f 
+#### [Slides]: https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=01afbd81adb4e42ac9a3aad4a494e16f5&authkey=AWsusFemkx5acTrC47kQPrY&e=10301a65120a461ab7b544ea10cd2d6f 
 #### Leffingwell - Agile software requirements 
 - chap. 3: AGILE REQUIREMENTS FOR THE TEAM
 - chap. 6: USER STORIES (skip spikes)
