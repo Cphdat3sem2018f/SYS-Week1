@@ -19,6 +19,8 @@
 ## Exercises
 
 ## Resources
+### SYS Intro:
+### Slides: https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0331bb2772b804c70a3990a7a06d6bd4e&authkey=AWLoE8wcQy1S4-_sOF7EtzM&e=9698f744c6aa4c49b3c2316c0f811e7b
 ### Outsourcing:
 #### Arthur F. Rothberg: Outsourcing Benefits: Seven Ways They Help Grow SmallCompanies http://www.cfoedge.com/resources/articles/cfo-edge-outsourcing-benefits-and-growing-small-companies.pdf 
 #### #### Michael F. Corbett: The Outsourcing Revolution https://www.economist.com/media/globalexecutive/outsourcing_revolution_e_02.pdf 
