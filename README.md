@@ -35,7 +35,7 @@
 #### Leffingwell - Agile software requirements 
 - chap. 3: AGILE REQUIREMENTS FOR THE TEAM
 - chap. 6: USER STORIES (skip spikes)
-- chap. 10: ACCEPTANCE TESTING2)
+- chap. 10: ACCEPTANCE TESTING (skip Unit and Component Testing)
 #### Elisabeth Hendrickson: Driving Development with Tests ATTD and TDD: http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf 
 #### Agile Requirements Modelling: http://www.agilemodeling.com/essays/agileRequirements.htm#ATDD
 
