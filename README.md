@@ -21,7 +21,7 @@ SP-Exercise Outsorcing 10/11/2017 - [Link to PDF](https://efif.sharepoint.com/si
 
 ## Resources
 ### SYS Intro:
-#### Slides: https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0331bb2772b804c70a3990a7a06d6bd4e&authkey=AWLoE8wcQy1S4-_sOF7EtzM&e=9698f744c6aa4c49b3c2316c0f811e7b
+#### Slides: [link to Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0331bb2772b804c70a3990a7a06d6bd4e&authkey=AWLoE8wcQy1S4-_sOF7EtzM&e=9698f744c6aa4c49b3c2316c0f811e7b)
 ### Outsourcing:
 #### Arthur F. Rothberg: Outsourcing Benefits: Seven Ways They Help Grow SmallCompanies http://www.cfoedge.com/resources/articles/cfo-edge-outsourcing-benefits-and-growing-small-companies.pdf 
 #### Michael F. Corbett: The Outsourcing Revolution https://www.economist.com/media/globalexecutive/outsourcing_revolution_e_02.pdf 
@@ -35,7 +35,7 @@ SP-Exercise Outsorcing 10/11/2017 - [Link to PDF](https://efif.sharepoint.com/si
 6. The Truth About Outsourcing https://www.youtube.com/watch?v=v7LHOUs7KLo 
 
 ### Agile requirement specification
-#### Slides: https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=01afbd81adb4e42ac9a3aad4a494e16f5&authkey=AWsusFemkx5acTrC47kQPrY&e=10301a65120a461ab7b544ea10cd2d6f 
+#### Slides: [link to Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=01afbd81adb4e42ac9a3aad4a494e16f5&authkey=AWsusFemkx5acTrC47kQPrY&e=10301a65120a461ab7b544ea10cd2d6f)
 #### Leffingwell - Agile software requirements 
 - chap. 3: AGILE REQUIREMENTS FOR THE TEAM
 - chap. 6: USER STORIES (skip spikes)
