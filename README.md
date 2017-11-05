@@ -37,7 +37,7 @@
 - chap. 6: USER STORIES (skip spikes)
 - chap. 10: ACCEPTANCE TESTING2)
 #### Elisabeth Hendrickson: Driving Development with Tests ATTD and TDD: http://testobsessed.com/wp-content/uploads/2011/04/atddexample.pdf 
-#### http://www.agilemodeling.com/essays/agileRequirements.htm#ATDD
+#### Agile Requirements Modelling: http://www.agilemodeling.com/essays/agileRequirements.htm#ATDD
 
 #### Videos:
 1. Explaining Agile - Martin Fowler and Neil Ford at USI: https://www.youtube.com/watch?v=GE6lbPLEAzc 
