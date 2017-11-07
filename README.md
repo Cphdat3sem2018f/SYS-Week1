@@ -21,9 +21,9 @@ SP-Exercise Outsorcing 10/11/2017 - [Link to PDF](https://efif.sharepoint.com/si
 
 ## Resources
 ### SCRUM Tool
-In the project you must use [taiga.io](https://taiga.io) as SCRUM Tool
-It is Open Source and free for Public projects. Download it at [taiga.io](https://taiga.io)
-Taiga have a YouTube cannel with 12 Tutorials: [Taiga YouTube cannel](https://www.youtube.com/playlist?list=PLgsasMWN5JssgHHHHI50xkz_kzXg-dElt)
+In the project you must use [taiga.io](https://taiga.io) as SCRUM Tool  
+It is Open Source and free for Public projects. Download it at [taiga.io](https://taiga.io)  
+On the YouTube cannel you can find 12 Tutorials: [Taiga YouTube cannel](https://www.youtube.com/playlist?list=PLgsasMWN5JssgHHHHI50xkz_kzXg-dElt)
 
 ### SYS Intro:
 #### Slides: [Link to Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0331bb2772b804c70a3990a7a06d6bd4e&authkey=AWLoE8wcQy1S4-_sOF7EtzM&e=9698f744c6aa4c49b3c2316c0f811e7b)
