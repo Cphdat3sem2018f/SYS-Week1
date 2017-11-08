@@ -56,7 +56,7 @@ On the YouTube cannel you can find 12 Tutorials: [Taiga YouTube cannel](https://
 ### Unified Process and use cases
 #### Slides: [Link to Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0dfccb86e4d294b09bb3bdeebf43722f5&authkey=AQSfnEgf5a5xTGKOWQejpHk)
 #### Ambler: A Manager’s Introduction to RUP http://www.ambysoft.com/downloads/managersIntroToRUP.pdf 
-#### Leffingwell: chap 19: use cases
+#### Leffingwell: chap 19: use cases.
 
 ### Prototyping and spikes
 #### C. Floyd - A systematic look on prototyping 
