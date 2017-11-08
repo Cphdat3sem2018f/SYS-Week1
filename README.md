@@ -61,4 +61,9 @@ On the YouTube cannel you can find 12 Tutorials: [Taiga YouTube cannel](https://
 ### Prototyping and spikes
 #### C. Floyd - A systematic look on prototyping 
 #### Leffingwell- chap. 6: USER STORIES (spikes)
+#### Spikes -½ Scaled Agile Framework.pdf
+
+### Prototyping and spikes
+#### Study point exercise: Prototyping
+#### Study point exercise: Outsourcing
 
