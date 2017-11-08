@@ -63,7 +63,7 @@ On the YouTube cannel you can find 12 Tutorials: [Taiga YouTube cannel](https://
 #### Leffingwell- chap. 6: USER STORIES (spikes)
 #### Spikes -½ Scaled Agile Framework.pdf
 
-### Prototyping and spikes
+### Friday
 #### Study point exercise: Prototyping
 #### Study point exercise: Outsourcing
 
