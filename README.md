@@ -59,7 +59,7 @@ On the YouTube cannel you can find 12 Tutorials: [Taiga YouTube cannel](https://
 #### Leffingwell: chap 19: use cases.
 
 ### Prototyping and spikes
-#### Slides: [Link to Slides](https://efif.sharepoint.com/sites/cph/Lyngby/Shared%20Documents/4.%20Indhold%20%26%20Niveau/DAT/Stud%20-%20E2016%20-%20E2018%20-%203.%20semester%20efter%C3%A5r%202017/SYS/Prototyping%20and%20Spikes.pptx?d=w1875eb72582949c28157165d61642d29&csf=1&e=31ed3c00a6734cafbf5d210e2a0c5914)
+#### Slides: [Link to Slides](https://github.com/Cphdat3sem2017f/SYS-Week1/blob/master/Prototyping%20and%20Spikes.pptx)
 #### C. Floyd - A systematic look on prototyping 
 #### Leffingwell- chap. 6: USER STORIES (spikes)
 #### Spikes -½ Scaled Agile Framework.pdf
