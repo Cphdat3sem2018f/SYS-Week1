@@ -1,8 +1,8 @@
 # Outsourcing and requirement specification
 
 ## Plan
-### Day 1- Outsourcing
-### Day 2 – Agile requirements
+### Day 1- Agile requirements
+### Day 2 – Outsourcing
 ### Day 3 – Unified Process and user stories
 ### Day 4 – Prototyping and Spikes
 ### Day 5 – Study point exercises
@@ -16,8 +16,6 @@
 -	Be able to participate in outsourcing
 -	Be able to participate in business modelling and requirement specification
 
-## Exercises
-SP-Exercise Outsorcing 10/11/2017 - [Link to PDF](https://github.com/Cphdat3sem2018s/SYS-Week1/blob/master/SP-exercise%20-%20outsourcing.pdf)
 
 ## Resources
 ### SCRUM Tool
@@ -27,18 +25,6 @@ On the YouTube cannel you can find 12 Tutorials: [Taiga YouTube cannel](https://
 
 ### SYS Intro:
 #### Slides: [Link to Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0331bb2772b804c70a3990a7a06d6bd4e&authkey=AWLoE8wcQy1S4-_sOF7EtzM&e=9698f744c6aa4c49b3c2316c0f811e7b)
-### Outsourcing:
-#### [Link to PowerPoint](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0389bf7eb426741b89564d40e89d2cd54&authkey=AcjAtD0n0sXHffVKw39Sfu0&e=0ac37d882f8e4501b830ca846ce3cf00)
-#### Arthur F. Rothberg: Outsourcing Benefits: Seven Ways They Help Grow SmallCompanies http://www.cfoedge.com/resources/articles/cfo-edge-outsourcing-benefits-and-growing-small-companies.pdf 
-#### Michael F. Corbett: The Outsourcing Revolution https://www.economist.com/media/globalexecutive/outsourcing_revolution_e_02.pdf 
-#### Videos:
-
-1. (5 min - "ABC company") Outsourcing: Is it good or bad? https://www.youtube.com/watch?v=7qeehDLYa8g&feature=youtu.be 
-2. (4 min - "pep talk + counselling conversation"Outsourcing Your Graphic Design [Small Business Tutorial]https://www.youtube.com/watch?v=4ujEtAsR1t8&feature=youtu.be
-3. (4 stk ca. 7-8 min - Tyrone Shum/outsourcinglive) Benefits Of Outsourcing https://www.youtube.com/watch?v=m4dWB3Q6j0Q 
-4. The 5 Secrets With Outsourcing Software And IT https://www.youtube.com/watch?v=MEtBVTXHv3E 
-5. Pros and Cons of Outsourcing https://www.youtube.com/watch?v=90a2qHYqMoU 
-6. The Truth About Outsourcing https://www.youtube.com/watch?v=v7LHOUs7KLo 
 
 ### Agile requirement specification
 #### Slides: [Link to Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=01afbd81adb4e42ac9a3aad4a494e16f5&authkey=AWsusFemkx5acTrC47kQPrY&e=10301a65120a461ab7b544ea10cd2d6f)
@@ -52,6 +38,20 @@ On the YouTube cannel you can find 12 Tutorials: [Taiga YouTube cannel](https://
 1. Explaining Agile - Martin Fowler and Neil Ford at USI: https://www.youtube.com/watch?v=GE6lbPLEAzc 
 2. Agile Product Ownership in a nutshell: https://www.youtube.com/watch?v=502ILHjX9EE 
 3. Product Backlog Grooming Meeting: http://scrumtrainingseries.com/ 
+
+### Outsourcing:
+#### [Link to PowerPoint](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0389bf7eb426741b89564d40e89d2cd54&authkey=AcjAtD0n0sXHffVKw39Sfu0&e=0ac37d882f8e4501b830ca846ce3cf00)
+#### Arthur F. Rothberg: Outsourcing Benefits: Seven Ways They Help Grow SmallCompanies http://www.cfoedge.com/resources/articles/cfo-edge-outsourcing-benefits-and-growing-small-companies.pdf 
+#### Michael F. Corbett: The Outsourcing Revolution https://www.economist.com/media/globalexecutive/outsourcing_revolution_e_02.pdf 
+#### Videos:
+
+1. (5 min - "ABC company") Outsourcing: Is it good or bad? https://www.youtube.com/watch?v=7qeehDLYa8g&feature=youtu.be 
+2. (4 min - "pep talk + counselling conversation"Outsourcing Your Graphic Design [Small Business Tutorial]https://www.youtube.com/watch?v=4ujEtAsR1t8&feature=youtu.be
+3. (4 stk ca. 7-8 min - Tyrone Shum/outsourcinglive) Benefits Of Outsourcing https://www.youtube.com/watch?v=m4dWB3Q6j0Q 
+4. The 5 Secrets With Outsourcing Software And IT https://www.youtube.com/watch?v=MEtBVTXHv3E 
+5. Pros and Cons of Outsourcing https://www.youtube.com/watch?v=90a2qHYqMoU 
+6. The Truth About Outsourcing https://www.youtube.com/watch?v=v7LHOUs7KLo 
+
 
 ### Unified Process and use cases
 #### Slides: [Link to Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0dfccb86e4d294b09bb3bdeebf43722f5&authkey=AQSfnEgf5a5xTGKOWQejpHk)
