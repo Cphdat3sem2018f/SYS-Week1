@@ -17,7 +17,7 @@
 -	Be able to participate in business modelling and requirement specification
 
 ## Exercises
-SP-Exercise Outsorcing 10/11/2017 - [Link to PDF](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0d517ddb5cd6d4ccba0e49babb37f1054&authkey=Ae1tx313yTkxuPNljSt6bkI&e=150f1f5647c7484b8a7b021c52ce5534)
+SP-Exercise Outsorcing 10/11/2017 - [Link to PDF](https://github.com/Cphdat3sem2018s/SYS-Week1/blob/master/SP-exercise%20-%20outsourcing.pdf)
 
 ## Resources
 ### SCRUM Tool
