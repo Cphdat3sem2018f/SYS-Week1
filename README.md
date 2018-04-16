@@ -24,10 +24,10 @@ It is Open Source and free for Public projects. Download it at [taiga.io](https:
 On the YouTube cannel you can find 12 Tutorials: [Taiga YouTube cannel](https://www.youtube.com/playlist?list=PLgsasMWN5JssgHHHHI50xkz_kzXg-dElt)
 
 ### SYS Intro:
-#### Slides: [Link to Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0331bb2772b804c70a3990a7a06d6bd4e&authkey=AWLoE8wcQy1S4-_sOF7EtzM&e=9698f744c6aa4c49b3c2316c0f811e7b)
+#### Slides: [Link to Slides](https://efif.sharepoint.com/:p:/s/cph/Lyngby/EdDegxCuid1GiWk5jm0HcT4BobDa21Er0DRkfrQoZ1vorQ?e=R2Z2hU)
 
 ### Agile requirement specification
-#### Slides: [Link to Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=01afbd81adb4e42ac9a3aad4a494e16f5&authkey=AWsusFemkx5acTrC47kQPrY&e=10301a65120a461ab7b544ea10cd2d6f)
+#### Slides: [Link to Slides](https://efif.sharepoint.com/:p:/s/cph/Lyngby/ESxyX79D7apGqB4KL2lapnQBsGKnk8z3q0LYc6kVWs_dPQ?e=msOQpG)
 #### Leffingwell - Agile software requirements 
 - chap. 3: AGILE REQUIREMENTS FOR THE TEAM
 - chap. 6: USER STORIES (skip spikes)
