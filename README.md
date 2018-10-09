@@ -24,10 +24,10 @@ It is Open Source and free for Public projects. Download it at [taiga.io](https:
 On the YouTube cannel you can find 12 Tutorials: [Taiga YouTube cannel](https://www.youtube.com/playlist?list=PLgsasMWN5JssgHHHHI50xkz_kzXg-dElt)
 
 ### SYS Intro:
-#### Slides: [Link to Slides](https://efif.sharepoint.com/:p:/s/cph/Lyngby/EdDegxCuid1GiWk5jm0HcT4BobDa21Er0DRkfrQoZ1vorQ?e=R2Z2hU)
+#### Slides: in this git
 
 ### Agile requirement specification
-#### Slides: [Link to Slides](https://efif.sharepoint.com/:p:/s/cph/Lyngby/ESxyX79D7apGqB4KL2lapnQBsGKnk8z3q0LYc6kVWs_dPQ?e=msOQpG)
+#### Slides: in this git
 #### Leffingwell - Agile software requirements 
 - chap. 3: AGILE REQUIREMENTS FOR THE TEAM
 - chap. 6: USER STORIES (skip spikes)
