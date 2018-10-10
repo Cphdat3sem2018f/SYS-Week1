@@ -67,4 +67,6 @@ On the YouTube cannel you can find 12 Tutorials: [Taiga YouTube cannel](https://
 ### Friday
 #### Study point exercise: Prototyping
 #### Study point exercise: Outsourcing
+Sign up for review times [here](https://docs.google.com/spreadsheets/d/1cNCwwUnphRFWayoxZY0qq5Mo6M3CcJgfV4ikCL2KmRE/edit#gid=0
+)
 
