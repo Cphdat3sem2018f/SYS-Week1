@@ -54,7 +54,7 @@ On the YouTube cannel you can find 12 Tutorials: [Taiga YouTube cannel](https://
 
 
 ### Unified Process and use cases
-#### Slides: [Link to Slides](https://github.com/Cphdat3sem2018s/SYS-Week1/blob/master/UP%20and%20Use%20Case.pptx)
+#### Slides can be found in this repository
 #### Ambler: A Manager’s Introduction to RUP http://www.ambysoft.com/downloads/managersIntroToRUP.pdf 
 #### Leffingwell: chap 19: use cases.
 
